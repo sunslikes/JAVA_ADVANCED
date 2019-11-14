@@ -1,0 +1,8 @@
+###
+id=student class=com.company.homwork.chapter2.collection.Student
+name=studentId value=3424 type=java.lang.Long
+name=name value=ling type=java.lang.String
+name=sex value=women type=java.lang.String
+name=classNumber value=3 type=java.lang.Integer
+///
+

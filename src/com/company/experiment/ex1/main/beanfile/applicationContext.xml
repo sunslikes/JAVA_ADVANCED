@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="">
+    <bean id="student" class="com.company.homwork.chapter2.collection.Student">
+        <property name="studentId" value="1000" type="java.lang.Long"></property>
+        <property name="name" value="lin" type="java.lang.String"></property>
+        <property name="sex" value="man" type="java.lang.String"></property>
+        <property name="classNumber" value="3" type="java.lang.Integer"></property>
+    </bean>
+    <bean id="score" class="com.company.homwork.chapter2.collection.Score">
+        <property name="studentId" value="1000" type="java.lang.Long"></property>
+        <property name="className" value="3" type="java.lang.String"></property>
+        <property name="grade" value="99.9" type="java.lang.Double"></property>
+    </bean>
+</beans>

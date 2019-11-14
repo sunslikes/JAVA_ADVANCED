@@ -1,0 +1,5 @@
+idNo=5122245566
+name=张小平
+age=23
+sex=Mele
+isMerried=true
